@@ -33,6 +33,7 @@ The following **additional** features are implemented:
 **Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
+Loom Link: https://www.loom.com/share/ceebe3173df74c2abd18e849d9482c7f?sid=36e4b3bc-204a-4781-b3c3-372322ca0c5d
 
 <img src='https://cdn.loom.com/sessions/thumbnails/ceebe3173df74c2abd18e849d9482c7f-7e58162deea3d329-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
