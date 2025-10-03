@@ -1,4 +1,4 @@
-# WEB103 Project 1 - *Concert Events*
+# WEB103 Project 2 - *Concert Events*
 
 Submitted by: **Zhuolin**
 
@@ -12,17 +12,14 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 - [ X ] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [ X ] **The web app displays a title**
-- [ X ] **The web app displays at least five unique list items, each with at least three displayed attributes (such as title, text, and image)**
-- [ X ] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [ X ] **Each detail view should be a unique endpoint, such as as `localhost:3000/bosses/crystalguardian` and `localhost:3000/mantislords`**
-  - [ X ] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
-- [ X ] **The web app serves an appropriate 404 page when no matching route is defined**
-- [ X ] **The web app is styled using Picocss**
+- [ ] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+  - [ X ] **NOTE: Your walkthrough added to the README must include a view of your Render dashboard demonstrating that your Postgres database is available**
+  - [ X ]  **NOTE: Your walkthrough added to the README must include a demonstration of your table contents. Use the psql command 'SELECT * FROM tablename;' to display your table contents.**
+
 
 The following **optional** features are implemented:
 
-- [ X ] The web app displays items in a unique format, such as cards rather than lists or animated list items
+- [ ] The user can search for items by a specific attribute
 
 The following **additional** features are implemented:
 
@@ -30,15 +27,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**Note: please be sure to 
-
 Here's a walkthrough of implemented required features:
-Loom Link: https://www.loom.com/share/ceebe3173df74c2abd18e849d9482c7f?sid=36e4b3bc-204a-4781-b3c3-372322ca0c5d
 
-<img src='https://cdn.loom.com/sessions/thumbnails/ceebe3173df74c2abd18e849d9482c7f-7e58162deea3d329-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
+GIF created with ...  GIF tool here
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

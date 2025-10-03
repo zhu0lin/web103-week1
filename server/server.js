@@ -1,4 +1,5 @@
 import express from 'express'
+import dotenv from "./config/dotenv.js"
 import eventsRouter from './routes/events.js'
 import path from 'path'
 import { fileURLToPath } from 'url'
